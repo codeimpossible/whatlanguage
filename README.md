@@ -9,3 +9,8 @@ WhatLanguage uses [Githubs API](http://developer.github.com) to display the lang
 WhatLanguage is built on [BackboneJS](http://documentcloud.github.com/backbone/), [RequireJS](http://requirejs.org), and [HandlebarsJS](http://handlebarsjs.com/).
 
 WhatLanguage also uses the totally awesome [ShowdownJS](http://softwaremaniacs.org/playground/showdown-highlight/) to render this page from its own `README.md` file!
+
+To make all the magic happen WhatLanguage also uses the [JasonHub](http://github.com/codeimpossible/jasonhub), the open-source Github API library for RequireJS.
+
+## View the source, Luke!
+[Check out the source](http://github.com/codeimpossible/whatlanguage) to see how it's done!
