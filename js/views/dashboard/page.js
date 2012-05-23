@@ -5,7 +5,7 @@ define([
   'handlebars',
   'showdown',
   'text!templates/dashboard/page.html',
-  'text!README.md'
+  'text!../README.md'
 ], function($, _, Backbone, Handlebars, Showdown, dashboardPageTemplate, readme){
   var DashboardPage = Backbone.View.extend({
     el: '.page',
