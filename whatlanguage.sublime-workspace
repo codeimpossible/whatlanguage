@@ -1,0 +1,483 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Entity",
+				"EntityPlayer"
+			],
+			[
+				"En",
+				"EntityDeathExplosion"
+			],
+			[
+				"invin",
+				"invincible"
+			],
+			[
+				"bounc",
+				"bounceCounter"
+			],
+			[
+				"enemyfac",
+				"enemyFactory"
+			],
+			[
+				"ene",
+				"enemyTemplates"
+			],
+			[
+				"en",
+				"enemyTemplate"
+			],
+			[
+				"body",
+				"body_html"
+			],
+			[
+				"tab",
+				"tab_cookie"
+			],
+			[
+				"tye",
+				"typeahead"
+			],
+			[
+				"se",
+				"selections"
+			],
+			[
+				"acti",
+				"is_active"
+			],
+			[
+				"pre",
+				"presencequote"
+			],
+			[
+				"content",
+				"content_paragraph"
+			],
+			[
+				"oh",
+				"ohloh_injection_id"
+			],
+			[
+				"ass",
+				"ass	assert_same(..)"
+			],
+			[
+				"ko",
+				"ko.[]	kockoutjs observable array"
+			],
+			[
+				"could",
+				"couldDisappear"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 111.0,
+		"selected_items":
+		[
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"chan",
+				"Change tracker: Highlight changes"
+			],
+			[
+				"Package Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 129.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jared/Dropbox/src/impactjs/impact-book-resources/impact-book-resources/lessons/part-10-camera/game/main.js",
+		"/C/Users/jared/Dropbox/src/impactjs/impact-book-resources/impact-book-resources/lessons/part-10-camera/game/entities/player.js",
+		"/C/Users/jared/Dropbox/src/impactjs/impact-book-resources/impact-book-resources/lessons/part-9-grenade-explosion/game/entities/player.js",
+		"/C/Users/jared/Dropbox/src/impactjs/impact-book-resources/impact-book-resources/lessons/part-8-death-animations/game/entities/player.js",
+		"//42.0.0.13/data/test.vbs",
+		"//42.0.0.13/data/tttt.txt",
+		"//42.0.0.13/data/src/athome/Javascript/benchmark.js",
+		"/C/Users/jared/Src/Get-Off-My-Lawn/src/app.js",
+		"/C/Users/jared/Src/Get-Off-My-Lawn/README.md",
+		"/C/Users/jared/Src/Get-Off-My-Lawn/src/views/index.jade",
+		"/C/Users/jared/Dropbox/bin/apps/markpad/Themes/FunnelWeb/style.css",
+		"/C/Users/jared/Src/Get-Off-My-Lawn/src/start_server.bat",
+		"/C/Users/jared/Dropbox/src/html-javascript/presentations/requirejs/sample/app.js",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/views/shared/_recipe_tile.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/dashboard/index.html.erb",
+		"/C/Users/jared/Dropbox/ohcard/js/bootstrap-popover.js",
+		"/C/Users/jared/Dropbox/ohcard/index.html",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/views/users/show.html.erb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/views/users/_user_bar.html.erb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/models/recipe.rb",
+		"/C/Users/jared/Dropbox/ohcard/css/bootswatch.min.css",
+		"/C/Users/jared/Src/artigo/public/stylesheets/admin.css",
+		"/C/Users/jared/Src/artigo/public/javascripts/artigo-admin.js",
+		"/C/Users/jared/Src/artigo/app/views/themes/metro/posts/show.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/posts/_body_editor.html.erb",
+		"/C/Users/jared/Src/artigo/db/migrate/20120220042258_migrate_post_body.rb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/views/home/index.html.erb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/Gemfile",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/config/routes.rb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/controllers/recipes_controller.rb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/views/layouts/all.html.erb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/views/layouts/application.html.erb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/views/layouts/theme.luminate.html.erb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/views/recipes/_recipe_form.erb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/public/javascripts/rails.js",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/controllers/application_controller.rb",
+		"/C/Users/jared/Src/whatdidijusteat.com-hg/app/views/pages/about.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/dashboard/_theme_tab.html.erb",
+		"/C/Users/jared/Src/artigo/test/integration/posts_controller_test.rb",
+		"/C/Users/jared/Src/artigo/app/views/themes/metro/layouts/main.html.erb",
+		"/C/Users/jared/Src/artigo/public/themes/metro/metro.css",
+		"/C/Users/jared/Src/artigo/app/controllers/admin/theme_settings_controller.rb",
+		"/C/Users/jared/Src/artigo/config/initializers/artigo_config.rb",
+		"/C/Users/jared/Src/artigo/app/views/layouts/admin.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/shared/_alert.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/posts/_post_form.html.erb",
+		"/C/Users/jared/Src/artigo/app/helpers/application_helper.rb",
+		"/C/Users/jared/Src/artigo/app/controllers/application_controller.rb",
+		"/C/Users/jared/Src/artigo/config/routes.rb",
+		"/C/Users/jared/Src/artigo/app/views/admin/dashboard/_posts_tab.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/dashboard/_config_tab.html.erb",
+		"/C/Users/jared/Src/artigo/test/functional/admin/config_controller_test.rb",
+		"/C/Users/jared/Src/artigo/test/functional/admin/theme_settings_controller_test.rb",
+		"/C/Users/jared/Src/artigo/test/test_helper.rb",
+		"/C/Users/jared/Src/artigo/app/controllers/admin/config_controller.rb",
+		"/C/Users/jared/Src/artigo/config/artigo.yml",
+		"/C/Users/jared/Src/artigo/lib/tasks/artigo.rake",
+		"/C/Users/jared/AppData/Roaming/Sublime Text 2/Packages/User/Ruby.sublime-settings",
+		"/C/Users/jared/Src/massiverecord/MassiveRecord.cs",
+		"/C/Users/jared/Src/artigo/app/views/admin/shared/_sidebar.html.erb",
+		"/C/Users/jared/Src/artigo/app/models/post.rb",
+		"/C/Users/jared/Src/artigo/test/functional/admin/dashboard_controller_test.rb",
+		"/C/Users/jared/Src/artigo/app/views/admin/posts/edit.html.erb",
+		"/C/Users/jared/Src/artigo/app/controllers/posts_controller.rb",
+		"/C/Users/jared/Src/artigo/app/views/themes/k2/posts/index.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/posts/index.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/tidyup/index.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/posts/new.html.erb",
+		"/C/Users/jared/Src/artigo/app/controllers/admin/posts_controller.rb",
+		"/C/Users/jared/Src/artigo/app/views/sessions/new.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/shared/_login_form.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/shared/_navbar.html.erb",
+		"/C/Users/jared/Src/artigo/test/functional/admin/posts_controller_test.rb",
+		"/C/Users/jared/Src/artigo/app/controllers/users_controller.rb",
+		"/C/Users/jared/Src/artigo/app/controllers/sessions_controller.rb",
+		"/C/Users/jared/Src/artigo/public/javascripts/artigo-edit.js",
+		"/C/Users/jared/Src/artigo/app/controllers/admin/dashboard_controller.rb",
+		"/C/Users/jared/Src/artigo/app/views/themes/codeimpossible/posts/index.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/admin/config/edit.html.erb",
+		"/C/Users/jared/Src/artigo/public/javascripts/bootstrap/bootstrap.js",
+		"/C/Users/jared/Src/codeimp-bootstrap/js/bootstrap-typeahead.js",
+		"/C/Users/jared/Src/codeimp-bootstrap/js/tests/unit/bootstrap-typeahead.js",
+		"/C/Users/jared/Src/artigo/app/views/admin/shared/_sid",
+		"/C/Users/jared/Src/artigo/app/views/admin/posts/_tag_autocomplete.html.erb",
+		"/C/Users/jared/Downloads/analyticsCharts.html",
+		"/C/Users/jared/Downloads/analyticsCharts.js",
+		"/C/Users/jared/Src/artigo/app/views/admin/imports/new.html.erb",
+		"/C/Users/jared/Src/artigo/app/models/posts",
+		"/C/Users/jared/Src/artigo/app/models/post",
+		"/C/Users/jared/Src/artigo/public/stylesheets/bootstrap.css",
+		"/C/Users/jared/Src/massiverecord/LICENSE.txt",
+		"/C/Users/jared/Src/batch/data.txt",
+		"/C/Users/jared/Src/batch/each_line.bat",
+		"/C/Users/jared/Src/batch/work.bat",
+		"/C/Users/jared/Dropbox/doc/valentines_day_menu.markdown",
+		"/C/Users/jared/Src/massiverecord/README.md",
+		"/C/Users/jared/domains.txt",
+		"/C/Users/jared/Src/ST4bby.nuspec",
+		"/C/Users/jared/Src/Presentations/marketing-to-employers/index.html",
+		"/C/Users/jared/Src/myrkat/.gitignore",
+		"/C/Users/jared/Src/myrkat/src/packages/repositories.config",
+		"/C/Users/jared/Src/myrkat/src/Myrkat/packages.config",
+		"/C/Users/jared/Src/twitter-bootstrap/examples/hero.html",
+		"/C/Users/jared/Src/twitter-bootstrap/examples/container-app.html",
+		"/C/Users/jared/Downloads/UpdateDatabase.v0.1.sql",
+		"/C/Users/jared/Src/myrkat/build.xml",
+		"/C/ProgramData/ChuckNorris/RoundhousE/migrations/myrkat/sqlexpress/20120130_223714_6992/roundhouse.changes.log",
+		"/C/Users/jared/Src/myrkat/db/_BuildInfo.xml",
+		"/C/Users/jared/Src/Presentations/common/css/presentation.css",
+		"/C/Users/jared/Dropbox/doc/dev_tip_trim_trailing_whitespace_on_save.markdown",
+		"/C/Users/jared/Src/ST4bby/src/ST4bby.tt",
+		"/C/Users/jared/Dropbox/doc/widget_poc.js",
+		"/C/Users/jared/Downloads/multioutputpot/Standalone1.tt",
+		"/C/Users/jared/Downloads/multioutputpot/File1.tt",
+		"/C/Users/jared/Downloads/multioutputpot/SaveOutputTest.tt",
+		"/C/Users/jared/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/Users/jared/Downloads/multioutputpot/MultiOutputPot.csproj",
+		"/C/Users/jared/Dropbox/doc/javascript_exploits.markdown",
+		"/C/Users/jared/Src/Standalone-T4-C--POCO-Generator/src/ST4bby.tt",
+		"/C/Users/jared/Src/Standalone-T4-C--POCO-Generator/src/ST4bby.Config.ttinclude",
+		"/C/Users/jared/Src/artigo/app/controllers/admin/tidyup_controller.rb",
+		"/C/Users/jared/Src/artigo/app/controllers/admin/base_controller.rb",
+		"/C/Users/jared/Src/artigo/test/functional/posts_controller_test.rb",
+		"/C/Users/jared/Downloads/multioutputpot/MultiOutput.tt",
+		"/C/Users/jared/Src/Standalone-T4-C--POCO-Generator/T4PocoGenerator/SaveOutput.tt",
+		"/C/Users/jared/Src/Standalone-T4-C--POCO-Generator/T4PocoGenerator/Pocos.tt",
+		"/C/Users/jared/Src/artigo/app/views/admin/theme_settings/edit.html.erb",
+		"/C/Users/jared/Src/artigo/app/views/themes/codeimpossible/layouts/main.html.erb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"    ",
+			"myModal",
+			" %>",
+			"delime",
+			"Typeahead",
+			"<label>",
+			"row",
+			"/images/",
+			"../img/",
+			"thoughts",
+			"	",
+			"    ",
+			"	",
+			"#8DB1FF",
+			"office2003",
+			":title",
+			":media",
+			"model.post",
+			"<pre>",
+			"	"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  ",
+			"<label class=\"control-label\">",
+			"control-group",
+			"/images/admin/",
+			"/images/",
+			"thought",
+			"  ",
+			"    ",
+			"#eee",
+			"artigo",
+			":name",
+			":file",
+			"post",
+			"<pre class=\"prettyprint\">",
+			"  "
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hamster",
+				"lib/game/entities/enemy-boss-hamster.js"
+			],
+			[
+				"player",
+				"lib/game/director/player-controller.js"
+			],
+			[
+				"weapons/",
+				"lib/game/weapons/grenade.js"
+			],
+			[
+				"pla",
+				"lib/game/entities/player.js"
+			],
+			[
+				"main.",
+				"lib/game/main.js"
+			],
+			[
+				"app.",
+				"src/app.js"
+			],
+			[
+				"engine.u",
+				"src/scripts/modules/engine.util.js"
+			],
+			[
+				"maps",
+				"src/maps.js"
+			],
+			[
+				"map",
+				"src/scripts/modules/engine.map.js"
+			],
+			[
+				"game",
+				"src/scripts/modules/engine.game.js"
+			],
+			[
+				"package.json",
+				"part_three/package.json"
+			],
+			[
+				"app.js",
+				"part_three/app.js"
+			],
+			[
+				"theme",
+				"/C/Users/jared/Src/artigo/app/controllers/admin/theme_settings_controller.rb"
+			],
+			[
+				"",
+				"untitled"
+			],
+			[
+				"artigo",
+				"/C/Users/jared/Src/artigo/public/javascripts/artigo-ckeditor.js"
+			],
+			[
+				"medi",
+				"/C/Users/jared/Src/artigo/public/javascripts/ckeditor/_source/plugins/artigo-media-library/plugin.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true
+}
