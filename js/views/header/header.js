@@ -15,7 +15,12 @@ define([
 
       $('#boss_hog').keydown(function(e){
         if(e.keyCode === 13) {
-          window.location = "#/" + $(this).val().replace(/\s/g, "");
+          // get rid of useless data
+          var url = $(this).val();
+          url = url.replace(/https?:\/\/w{0,3}\.?github\.com\//ig, "")  // incase someone uses a github URL
+                   .replace(/\.git$/i, "")                              // incase someone uses .git
+                   .replace(/\s/g, "");                                 // remove whitespace
+          window.location = "#/" + url;
         }
       }).click(function(){
         this.select();

@@ -17,7 +17,7 @@ define([
 
       $(this.el).html( html );
 
-      $('#boss_hog').val('Click here, enter a repo path, e.g. twitter/bootstrap and press enter');
+      $('#boss_hog').val('Enter a github path e.g. "twitter/bootstrap" and press enter');
     }
   });
   return DashboardPage;
